@@ -1,5 +1,10 @@
 <img  alt="coding" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
 <h1 align="center">Hi 👋, I'm Md Furkan</h1>
+<h5 align="center">Aiming to use the knowledge gained till now,my curiosity to gain new knowledge and to utilise my skills and abilities in the industry that offers professional growth while being resourceful, innovative, flexible and helpful others.With this utilising my skills that lead to not only my development,but rather overall development of the organisation.
+As a Mechanical engineer ,I have both theoretically and practical knowledge.
+1st of all i have interest in Coding and web Development that's why i have learn Full Stack Web
+development in Masai School</h5>
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
