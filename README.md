@@ -10,7 +10,7 @@
  ```js
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
-  name     = 'Md furkan';
+  name     = 'Md Furkan';
   title    = 'Software Engineer' || 'Full Stack Web Developer';
   location = 'Kolkata, India';
   availability = "Available to hire!!";
